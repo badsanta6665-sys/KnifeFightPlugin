@@ -1,0 +1,12 @@
+{
+  "KnifeFightSettings": {
+    "KnifeFightDuration": 30,
+    "EnableMusic": true,
+    "RewardMoney": 1000,
+    "MinPlayersForFight": 2,
+    "EnableTeleport": true,
+    "AnnounceMessages": true,
+    "MusicSound": "sounds/music/knife_fight.mp3",
+    "VictorySound": "sounds/music/victory.mp3"
+  }
+}
